@@ -5,4 +5,4 @@ just learning
 
 `export GOPATH=/Users/winterlin/Github/freidenker/go/calcproject`
 
-`go build calc`
+`cd bin && go build calc`
